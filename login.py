@@ -1,2 +1,4 @@
-num2 = 111
-num3 == 333
+num1 = 1 
+num2 =2 
+num = num1 + num2
+
